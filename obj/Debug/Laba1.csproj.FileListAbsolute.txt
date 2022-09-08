@@ -1,0 +1,7 @@
+D:\Programms\MTandLA\Laba1\bin\Debug\Laba1.exe
+D:\Programms\MTandLA\Laba1\bin\Debug\Laba1.pdb
+D:\Programms\MTandLA\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+D:\Programms\MTandLA\Laba1\obj\Debug\Laba1.csproj.SuggestedBindingRedirects.cache
+D:\Programms\MTandLA\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+D:\Programms\MTandLA\Laba1\obj\Debug\Laba1.exe
+D:\Programms\MTandLA\Laba1\obj\Debug\Laba1.pdb
